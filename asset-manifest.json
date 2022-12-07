@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GeetSunam-Nepali-Music-Streaming-Platform/static/css/main.e4a8cc52.css",
-    "main.js": "/GeetSunam-Nepali-Music-Streaming-Platform/static/js/main.75c0e4e0.js",
+    "main.css": "/GeetSunam-Nepali-Music-Streaming-Platform/static/css/main.8ee83f03.css",
+    "main.js": "/GeetSunam-Nepali-Music-Streaming-Platform/static/js/main.b2d0d604.js",
     "static/media/music35.mp3": "/GeetSunam-Nepali-Music-Streaming-Platform/static/media/music35.ac90315f221213d0a91e.mp3",
     "static/media/music40.mp3": "/GeetSunam-Nepali-Music-Streaming-Platform/static/media/music40.82c1e3adce4beeed32bf.mp3",
     "static/media/music36.mp3": "/GeetSunam-Nepali-Music-Streaming-Platform/static/media/music36.189c4c74a2b0d4a5f711.mp3",
@@ -63,11 +63,11 @@
     "static/media/playlists-cover.png": "/GeetSunam-Nepali-Music-Streaming-Platform/static/media/playlists-cover.3176b9464f9b67586589.png",
     "index.html": "/GeetSunam-Nepali-Music-Streaming-Platform/index.html",
     "static/media/getFetch.cjs": "/GeetSunam-Nepali-Music-Streaming-Platform/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.e4a8cc52.css.map": "/GeetSunam-Nepali-Music-Streaming-Platform/static/css/main.e4a8cc52.css.map",
-    "main.75c0e4e0.js.map": "/GeetSunam-Nepali-Music-Streaming-Platform/static/js/main.75c0e4e0.js.map"
+    "main.8ee83f03.css.map": "/GeetSunam-Nepali-Music-Streaming-Platform/static/css/main.8ee83f03.css.map",
+    "main.b2d0d604.js.map": "/GeetSunam-Nepali-Music-Streaming-Platform/static/js/main.b2d0d604.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4a8cc52.css",
-    "static/js/main.75c0e4e0.js"
+    "static/css/main.8ee83f03.css",
+    "static/js/main.b2d0d604.js"
   ]
 }
